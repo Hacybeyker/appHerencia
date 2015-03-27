@@ -11,7 +11,7 @@ package ejemplojava;
  * @created 25-feb-2015 09:00:35 p.m.
  */
 public class Cliente extends Persona{
-    //hola mundo desde github
+    
     public Cliente(int codigo, String nombre, String apellido, String dni, boolean activo, String direccion, String telefono, String celular, String correo) {
         super(codigo, nombre, apellido, dni, activo, direccion, telefono, celular, correo);
     }
